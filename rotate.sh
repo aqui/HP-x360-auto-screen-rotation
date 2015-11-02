@@ -1,11 +1,7 @@
 #!/bin/bash
-################################################################################
-# Just add this script to the startup applications. That's all you have to do. #
-# Akif Batur                                                                   #
-# akfbtr@gmail.com                                                             #
-# http://www.akifbatur.com                                                     #
-# https://github.com/aqui/HP-x360-auto-screen-rotation/blob/master/LICENSE     #
-################################################################################
+
+# Akif Batur  
+# https://github.com/aqui/HP-x360-auto-screen-rotation/blob/master/LICENSE
 
 positionFile="/sys/devices/platform/lis3lv02d/position"
 
